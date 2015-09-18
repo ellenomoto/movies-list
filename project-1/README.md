@@ -6,9 +6,9 @@ fresh_tomatoes.html is already constructed.
 Open in browser to view.
 
 To remake fresh_tomatoes.html, run moviesList.py.
-One way to run this:
-	From terminal enter:
-	python moviesList.py
+One way to run this is from terminal enter:
+
+python moviesList.py
 
 This will regenerate fresh_tomatoes.html and open
 the file.
